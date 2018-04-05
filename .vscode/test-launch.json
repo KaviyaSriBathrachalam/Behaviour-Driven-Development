@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "bdd",
+            "projectName": "bdd",
+            "workingDirectory": "d:\\kaviya\\bdd-master",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "bdd",
+            "projectName": "bdd",
+            "workingDirectory": "d:\\kaviya\\bdd-master",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}

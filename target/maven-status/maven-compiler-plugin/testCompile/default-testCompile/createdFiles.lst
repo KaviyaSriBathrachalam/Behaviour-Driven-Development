@@ -1,0 +1,3 @@
+definitions\Calc1StepDefinitions.class
+runner\RunCukesTest.class
+definitions\CalcStepDefinitions.class
